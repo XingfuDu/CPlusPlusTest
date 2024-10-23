@@ -17,6 +17,24 @@ int main()
     
     cout << *score_ptr << endl;
     cout << score << endl;
+
+
+    cout << "\n" << endl;
+    cout << "----------------------------------------" << endl;
+
+    int* int_ptr{ nullptr };
+    int_ptr = new int;
+    cout << int_ptr << endl;
+    delete int_ptr;
+
+    size_t size{ 0 };
+    double* tmp_ptr{ nullptr };
+    cout << "tmp? \n";
+	cin >> size;
+    tmp_ptr = new double[size];
+    cout << tmp_ptr << endl;
+    delete[] tmp_ptr;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Udemy\\c\u002B\u002B\\PointersAndReferences\\",
+  "WorkspaceRootPath": "D:\\Udemy\\CPlusPlusTest\\PointersAndReferences\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FCEA494-7E5F-4B4B-93EE-43F89E745E25}|PointersAndReferences\\PointersAndReferences.vcxproj|D:\\Udemy\\c\u002B\u002B\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7FCEA494-7E5F-4B4B-93EE-43F89E745E25}|PointersAndReferences\\PointersAndReferences.vcxproj|D:\\Udemy\\CPlusPlusTest\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FCEA494-7E5F-4B4B-93EE-43F89E745E25}|PointersAndReferences\\PointersAndReferences.vcxproj|solutionrelative:PointersAndReferences\\PointersAndReferences.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PointersAndReferences.cpp",
-              "DocumentMoniker": "D:\\Udemy\\c\u002B\u002B\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp",
+              "DocumentMoniker": "D:\\Udemy\\CPlusPlusTest\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp",
               "RelativeDocumentMoniker": "PointersAndReferences\\PointersAndReferences.cpp",
-              "ToolTip": "D:\\Udemy\\c\u002B\u002B\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp",
+              "ToolTip": "D:\\Udemy\\CPlusPlusTest\\PointersAndReferences\\PointersAndReferences\\PointersAndReferences.cpp",
               "RelativeToolTip": "PointersAndReferences\\PointersAndReferences.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-22T18:59:22.509Z",
               "EditorCaption": ""
