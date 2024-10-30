@@ -75,7 +75,7 @@ bool Movies::increment_watched(std::string name) {
     *********************************************************************/
 void Movies::display() const {
    // You implement this method
-    for (auto const& movie : movies) {
+    for (const auto& movie : movies) {
         movie.display();
     }
 }
